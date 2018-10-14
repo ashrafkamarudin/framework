@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'SampleApp\\' => array($baseDir . '/app/lib'),
+    'Lyt\\' => array($baseDir . '/app'),
 );

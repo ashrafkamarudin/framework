@@ -1,6 +1,6 @@
 <?php
 
-namespace SampleApp\Helpers;
+namespace Lyt\lib\Helpers;
 
 class Hello
 {

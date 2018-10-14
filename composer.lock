@@ -1,10 +1,9 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "hash": "db47ab1eff4ce65c06d33c3c2e77ada0",
     "content-hash": "2d8fe42fb73d8ddbe39c0dbbda6e6aa1",
     "packages": [
         {
@@ -56,7 +55,7 @@
                 "middleware",
                 "templating"
             ],
-            "time": "2013-01-07 17:56:10"
+            "time": "2013-01-07T17:56:10+00:00"
         },
         {
             "name": "slim/slim",
@@ -102,7 +101,7 @@
                 "rest",
                 "router"
             ],
-            "time": "2014-04-05 18:33:59"
+            "time": "2014-04-05T18:33:59+00:00"
         }
     ],
     "packages-dev": [],

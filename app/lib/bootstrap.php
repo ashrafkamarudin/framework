@@ -11,7 +11,7 @@ $config['app'] = array(
     'log.enabled' => true,
     'log.level' => Slim\Log::INFO,
     'log.writer' => new Slim\Extras\Log\DateTimeFileWriter(array(
-        'path' => dirname(__FILE__) . '/../share/logs'
+        'path' => dirname(__FILE__) . '/../../share/logs'
     )),
     'mode' => (!empty($_ENV['SLIM_MODE'])) ? $_ENV['SLIM_MODE']: 'development'
 );
